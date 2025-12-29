@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a junior high teacher.<br>I am interested and love the programming world.<br>That is why I have been learning so much modules about web development.
+I am currently working as a junior high teacher.<br>I am interested and love the programming world.<br>That is why I have been learning so much modules about Data Science.
 
 
 ## 🌐 Socials:
